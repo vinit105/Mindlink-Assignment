@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-
+## 🎮Demo 
 [![demo](https://github.com/vinit105/Mindlink-Assignment/blob/3fa7c91d9684c49947bead51d5350e55195cd541/demo_photo.png)](https://github.com/user-attachments/assets/d028fbcc-2e07-4639-ba2b-d7332267a6a5)
 
